@@ -1,0 +1,26 @@
+h1 {
+	color: green;
+	text-align: center;
+	font-weight: bold;
+	font-size: 32px;
+	background-color: black;
+}
+p {
+	color: white;
+	font-family: comic sans;
+	font-size: 20px;
+	background-color: black;
+}
+div p {
+	color: pink;
+	font-size:18px;
+	background-color: teal;
+}
+div {
+	background-color: lightpink;
+	height: 300px;
+	width: 300px;
+	padding: 22px;
+	border: 3px dotted blue;
+}
+	
